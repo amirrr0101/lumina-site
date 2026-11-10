@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amirrr0101.github.io/lumina-site/sitemap.xml
